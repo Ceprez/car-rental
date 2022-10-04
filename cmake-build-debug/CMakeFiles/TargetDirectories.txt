@@ -1,0 +1,3 @@
+/Users/davidgaurg/Documents/C++/CarRental/cmake-build-debug/CMakeFiles/CarRental.dir
+/Users/davidgaurg/Documents/C++/CarRental/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidgaurg/Documents/C++/CarRental/cmake-build-debug/CMakeFiles/rebuild_cache.dir
